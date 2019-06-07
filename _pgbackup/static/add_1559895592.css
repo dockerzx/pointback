@@ -1,0 +1,18 @@
+.tabcontent {
+    display: none;
+}
+
+#design1 {
+    display: block;
+}
+
+.tablinks.active {
+    background-color: aliceblue;
+}
+
+.imglogo {
+}
+
+.as-center {
+    background-color: #8080803d;
+}

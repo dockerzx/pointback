@@ -15944,24 +15944,6 @@ a>.as-imagegrid-item-title:lang(zh-TW) {
 #ac-localnav.css-sticky {
     position: -webkit-sticky;
     position: sticky;
-    height: 70px;
-}
-
-#ac-localnav.ac-ln-sticking {
-    height: 50px;
-    transition: height .5s;
-}
-
-.imglogo {
-    padding: 7px!important;
-    height: 55px;
-    width: 55px;
-}
-
-#ac-localnav.ac-ln-sticking .imglogo {
-    height: 40px;
-    width: 40px;
-    transition: height .5s, width .5s;
 }
 
 #ac-localnav.no-css-sticky.ac-ln-sticking {
@@ -17570,10 +17552,10 @@ a>.as-imagegrid-item-title:lang(zh-TW) {
 .pageTitle {
     position: relative;
     box-sizing: border-box;
-
-    /* margin: 0 auto */
+    margin: 0 auto;
+    margin-left: ;
     width: 980px;
-    width: 500px;
+    width: 817px;
     margin-top: 48px;
     word-wrap: break-word;
     text-align: center;
@@ -18066,7 +18048,7 @@ a.promo-item:active {
 }
 
 .promo-item {
-    padding: 0px 60px;
+    padding: 20px 60px;
 
     /* padding-top: 10px */
     margin: 0;
@@ -18188,9 +18170,9 @@ a.promo-item:focus .promo-title {
 
 .promo-image {
     display: block;
-    margin: 15px auto;
+    margin: 0 auto;
     width: auto;
-    height: 100px;
+    height: 40px;
 }
 
 @media only screen and (max-width:735px){

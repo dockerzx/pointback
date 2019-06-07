@@ -1,0 +1,14 @@
+.tabcontent {
+    display: none;
+}
+
+#design1 {
+    display: block;
+}
+
+.tablinks.active {
+    background-color: aliceblue;
+}
+
+.imglogo {
+}

@@ -7,7 +7,7 @@
 }
 
 .tablinks.active {
-    background-color: #959595;
+    background-color: aliceblue;
 }
 
 .imglogo {
@@ -17,7 +17,5 @@
     background-color: rgba(45,45,45,0.98);
 }
 
-.contentLink-text img {
-    max-width: 60%;
-    margin-left: 0px;
+.buy-btn {
 }

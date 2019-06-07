@@ -18188,7 +18188,7 @@ a.promo-item:focus .promo-title {
 
 .promo-image {
     display: block;
-    margin: 15px auto;
+    margin: 0 auto;
     width: auto;
     height: 100px;
 }
